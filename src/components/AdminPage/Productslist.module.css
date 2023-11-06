@@ -1,0 +1,19 @@
+.products{
+   margin: 1rem auto;
+    width: 90%;
+    max-width: 40rem;
+    
+}
+.products ul{
+    list-style: none;
+    padding: .15rem;
+}
+.products li {
+    padding-left: 50px;
+    margin: 0.5rem 0;
+
+}
+.products h1 {
+    font:bold;
+    padding-left: 10px;
+}
